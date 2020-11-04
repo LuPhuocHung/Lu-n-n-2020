@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW": "admin",
+        "JWT_KEY": "secret",
+        "CLOUDINARY_NAME": "dys8lzmjd",
+        "CLOUDINARY_API_KEY": "153199597526963",
+        "CLOUDINARY_API_SECRET": "zzM_3m9RkJx6-VCmLTAYL9bDISI"
+    }
+}
